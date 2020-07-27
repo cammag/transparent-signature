@@ -11,4 +11,4 @@ Here, it's assumed that Python >3.6 and a new version of pip are installed on th
 and then
 ```bash
 >>> python signature.py
-```bash
+```
