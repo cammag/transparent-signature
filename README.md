@@ -5,6 +5,10 @@ Sometimes we need to sign a document digitally. I mean, open the document in a w
 
 How to use:
 Here, it's assumed that Python >3.6 and a new version of pip are installed on the system. In order to install the dependencies of the script in the terminal run the following command:
+```bash
 >>> pip install -r requirements.txt 
+```
 and then
+```bash
 >>> python signature.py
+```bash
